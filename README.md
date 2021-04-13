@@ -31,3 +31,8 @@
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
+
+<br />
+<br />
+
+<img align="left" alt="Coffee-Developer's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Coffee-Developer&show_icons=true&hide_border=true" />
