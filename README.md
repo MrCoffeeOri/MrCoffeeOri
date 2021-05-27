@@ -4,7 +4,7 @@
 
 <br/>
 
-## I am a student in Brazil, with the dream of becoming a software engineer/developer !
+## I am a student in Brazil, intending to become a software engineer/developer !
 - ### 💻 I'm currently working on my personal projects, such as websites or WPF / Console applications
 - ### 📚 I'm focused on studying software development and other programing languages like C# / C++ / Javascript
 - ### 🏆 Goals to 2021 / 2022: Contribute more to open source projects and make more publications on my github 😅
