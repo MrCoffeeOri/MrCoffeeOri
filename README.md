@@ -40,5 +40,6 @@
 
 # Stats:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coffee-Developer&show_icons=true&theme=tokyonight" alt="Coffee-Developer" />
-<img src="https://github-readme-stats.vercel.app/api?username=Coffee-Developer&show_icons=true&theme=tokyonight" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coffee-Developer&show_icons=true&theme=tokyonight" alt="Coffee-Developer" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Coffee-Developer&show_icons=true&theme=tokyonight" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Coffee-Developer&label=Profile%20views&color=0e75b6&style=flat" alt="Coffee-Developer" /></p>
