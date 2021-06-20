@@ -12,7 +12,7 @@
 
 <br/>
 
-# Languages & knowledges:
+# Languages & knowledges
 
 | Language | knowledge |
 | ------------- |:-------------:|
@@ -25,7 +25,7 @@
 
 <br />
 
-# Tools:
+# Tools
 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
@@ -38,7 +38,17 @@
 <br />
 <br />
 
-# Stats:
+# Frameworks
+
+| | |
+| ------------- |:-------------:|
+| <img align="left" alt="ReactJS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> | React JS |
+| <img align="left" alt="ReactJS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> | Node JS |
+
+<br />
+<br />
+
+# Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coffee-Developer&show_icons=true&theme=tokyonight" alt="Coffee-Developer" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Coffee-Developer&show_icons=true&theme=tokyonight" /></p>
