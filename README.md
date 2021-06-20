@@ -16,7 +16,7 @@
 
 | Language | knowledge |
 | ------------- |:-------------:|
-| <img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/> | Intermediate |
+| <img alt="Javascript" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/> | Advanced |
 | <img alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> | Advanced |
 | <img alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> | Advanced |
 | <img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/> | Advanced |
