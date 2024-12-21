@@ -14,7 +14,7 @@
 
 <br/>
 
-# Languages & knowledges
+# knowledges
 
 | Language | knowledge |
 | ------------- |:-------------:|
@@ -24,6 +24,17 @@
 | <img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/> | Advanced |
 | <img align="left" alt="Cplusplus" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/> | Advanced |
 | <img align="left" alt="Csharp" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg"/> | Advanced |
+
+| Framework | knowledge |
+| ------------- |:-------------:|
+| <img align="left" alt="ReactJS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> | Advanced |
+| <img align="left" alt="ReactJS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> | Advanced |
+
+| Database | knowledge |
+| ------------- |:-------------:|
+| <img align="left" alt="ReactJS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> | Advanced |
+| <img align="left" alt="ReactJS" width="50px" src="https://github.com/mongodb.png?size=100" /> | Advanced |
+
 
 <br />
 
@@ -36,16 +47,6 @@
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
-
-# Frameworks
-
-| | |
-| ------------- |:-------------:|
-| <img align="left" alt="ReactJS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> | React JS |
-| <img align="left" alt="ReactJS" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> | Node JS |
 
 <br />
 <br />
