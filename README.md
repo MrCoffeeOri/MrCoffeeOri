@@ -6,11 +6,11 @@
 
 <br/>
 
-## I am a student in Brazil, intending to become a software engineer/developer !
+## I am a student & software engineer/developer in Brazil!
 - ### 💻 I'm currently working on my personal projects, such as websites or WPF / Console applications
 - ### 📚 I'm focused on studying software development and other programing languages like C# / C++ / Javascript
 - ### 🏆 Goals to 2021 / 2022: Contribute more to open source projects and make more publications on my github 😅
-- ### ✨ Fun fact: I hacked my school's website using the google console and a little bit of javascript to see exam questions ahead of time 🤪
+- ### ✨ Fun fact: I hacked my school's website using the google console and a little bit of javascript to see exam questions ahead of time
 
 <br/>
 
